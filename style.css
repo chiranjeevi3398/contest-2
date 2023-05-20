@@ -11,12 +11,12 @@ body {
   top: 0;
   left: 0;
   background-color: black;
-  color: white;
+  color: orange;
 }
 .books-details {
   margin-top: 20px;
   margin-left: 30%;
-  background-color: aliceblue;
+  background-color: sky blue;
   width: 600px;
   padding: 20px;
 }
